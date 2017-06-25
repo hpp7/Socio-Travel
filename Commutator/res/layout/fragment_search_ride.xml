@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">  
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="188dp"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:id="@+id/welcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:textStyle="bold"
+            android:textSize="19sp"
+            android:text="Hey user!"/>
+
+        <AutoCompleteTextView
+            android:id="@+id/searchdestination"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/searchsource"
+            android:layout_below="@+id/searchsource"
+            android:layout_marginTop="25dp"
+            android:drawableLeft="@drawable/marker"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Enter destination"
+            android:imeActionLabel="@string/Next"
+            android:inputType="textPostalAddress"
+            android:textColor="#000000" />
+
+          <TextView
+            android:id="@+id/choosetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/searchdestination"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:text="Choose time of travel" />
+
+        <Button
+            android:id="@+id/submitsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/time1"
+            android:layout_centerHorizontal="true"
+            android:drawableLeft="@drawable/search"
+            android:drawablePadding="5dp"
+            android:layout_marginTop="27dp"
+            android:text="Search" />
+
+        <EditText
+            android:id="@+id/time1"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/choosetime"
+            android:layout_centerHorizontal="true"
+            android:drawableLeft="@drawable/time"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:focusable="false"
+            android:hint="Enter the time"
+            android:onClick="selectTime1" />
+
+        <AutoCompleteTextView
+            android:id="@+id/searchsource"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/welcome"
+            android:layout_marginTop="8dp"
+            android:drawableLeft="@drawable/marker"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Enter Source"
+            android:imeActionLabel="@string/Next"
+            android:inputType="textPostalAddress"
+            android:textColor="#000000" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+    
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Commutator</string>
+    <string name="action_settings">Settings</string>
+    <string name="Next">Next</string>
+    <string-array name="Vehicle_Type">
+        <item><b>AutoRickshaw</b></item>
+        <item><b>Car</b></item>
+        <item><b>Taxi</b></item>
+    </string-array>
+    <string name="veh">Select Vehicle Type</string>
+    <string name="app_id">630894513649962</string>
+	<string name="signIn">Sign In</string>
+    <string name="submit">Submit</string>
+    <string name="orText">Or</string>
+    <string-array name="Gender">
+        <item>Female</item>
+        <item>Male</item>
+     </string-array>
+    <string name="createAccount">Create Account</string>
+    <string name="emailHint">Email</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="changing_fragments">Changing Fragments</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="logout">Logout</string>
+    <string name="safety">Safety tips</string>
+    <string name="emailv">Please verify your account on the email address you just provided and then login again.</string>
+    <string name="sos">Please enter a number to contact in case of danger</string>
+    <string name="tipmain">Please consider the following for your own safety</string>
+    <string name="tip1">Do not join a ride if it does not seem legitimate.</string>
+    <string name="tip2">Do not join a ride if people who are in it seem suspicious.</string>
+    <string name="tip3">Do not create a ride with incorrect details, it could lead you into trouble.</string>
+    <string name="tip4">Communicate with the fellow commuters before travelling.</string>
+    <string name="tip5">Do not forget to use the SOS button on the top right of the app incase you are in danger.</string>
+    <string name="tip6">Let someone from your family know whom you are travelling with.</string>
+    <string name="tip7">Oh and carrying along a small can of pepper spray never hurts.</string>    
+    <string name="tipend">Travel safe!</string>
+     <string name="emailv">Please verify your account on the email address you just provided and then login again.</string>
+    <string name="changepassword1">An Email will be sent to your registered email address.</string>
+    <string name="changepassword2">You can change your password through the link in the mail.</string>
+    <string name="changepassword3">After pressing the send email button, logout and reset your password. </string>
+   	<string name="sos1">Please set a text message to send it to your dear ones when you feel you are in danger</string>
+    <string name="sos2">The default message is set below, you can change as per your wish</string> 
+
+    
+    
+</resources>

@@ -1,0 +1,134 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">  
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/display_bgr" >
+
+    <TextView
+        android:id="@+id/vpname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text=" "
+        android:textAllCaps="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/vpname"
+        android:layout_marginTop="23dp"
+        android:background="@drawable/display_picture"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/vppic"
+            android:layout_width="200dip"
+            android:layout_height="200dip"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:src="@drawable/default_medium_profile_pic" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/vpuname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:text=" "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/vpuname"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Gender: "
+        android:textAllCaps="true"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/vpgender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:text=" "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/vpgender"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Age:"
+        android:textAllCaps="true"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Username: "
+        android:textAllCaps="true"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/vpemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView8"
+        android:text=" "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/vpage"
+        android:layout_marginTop="15dp"
+        android:text="EmailId: "
+        android:textAllCaps="true"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/vpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:text=" "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>
+
+</ScrollView>

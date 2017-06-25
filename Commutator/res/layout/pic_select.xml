@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgr"
+    
+    tools:context=".SignUp" >
+
+    <Button
+        android:id="@+id/SelectImageBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="19dp"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_bg_pressed"
+        android:text="Select Image" />
+
+    <Button
+        android:id="@+id/set"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/SelectImageBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="31dp"
+        android:background="@drawable/button_bg_pressed"
+        android:text="Set as profile picture"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/ProfilePicIV"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_above="@+id/Button01"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/default_medium_profile_pic" />
+
+</RelativeLayout>

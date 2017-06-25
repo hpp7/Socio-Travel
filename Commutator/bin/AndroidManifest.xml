@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cockpunchers.commutator2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.VIBRATE"/>
+<uses-permission android:name="android.permission.WAKE_LOCK"/>
+<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+<uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+<permission android:protectionLevel="signature"
+    android:name="com.cockpunchers.commutator2.permission.C2D_MESSAGE" />
+<uses-permission android:name="com.cockpunchers.commutator2.permission.C2D_MESSAGE" />
+<uses-permission android:name="android.permission.WRITE_SMS"/>
+<uses-permission android:name="android.permission.SEND_SMS"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.cockpunchers.commutator2.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cockpunchers.commutator2.SOS"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cockpunchers.commutator2.Settings"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cockpunchers.commutator2.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.MainActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.cockpunchers.commutator2.SignUp"
+             android:label="@string/app_name"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTop"  >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.SignUp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+        <activity
+            android:name=".pic_select"
+            android:label="@string/app_name"             
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".Pic_select2"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".Safety"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.cockpunchers.commutator2.Login" 
+             android:label="@string/app_name"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTop"             
+            android:screenOrientation="portrait"
+            android:theme="@style/TransparentTheme"  >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.Login" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> </activity>
+            
+        <activity android:name="com.cockpunchers.commutator2.EmailVer"
+             android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.EmailVer" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+        <activity 
+            android:name="com.cockpunchers.commutator2.Loginact"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.Loginact" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+            <activity android:name="com.cockpunchers.commutator2.RideCreated" 
+             android:label="@string/app_name" android:configChanges="keyboardHidden|orientation|screenSize" android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.RideCreated" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> 
+            </activity>
+            
+            <activity  android:name="com.cockpunchers.commutator2.SearchResults" 
+             android:label="@string/app_name"
+             android:configChanges="keyboardHidden|orientation|screenSize"
+        android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.SearchResults" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> </activity>
+            <activity android:name="com.cockpunchers.commutator2.Tp" 
+             android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.Tp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> </activity>
+             <activity
+            android:name="com.cockpunchers.commutator2.RideActivity"
+            android:label="@string/app_name"
+             android:configChanges="keyboardHidden|orientation|screenSize"
+        android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.RideActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+            
+              <activity
+            android:name=".RoomChat"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+              <activity
+            android:name=".RideChatFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity 
+            android:name="com.cockpunchers.commutator2.SetSosMessage"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.SetSosMessage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+            
+        <activity 
+            android:name="com.cockpunchers.commutator2.ChangePassword"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.ChangePassword" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+
+        <activity 
+            android:name="com.cockpunchers.commutator2.ForgotPassword"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.ForgotPassword" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+        
+        
+        <activity 
+            android:name="com.cockpunchers.commutator2.ProfileSettings"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.ProfileSettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+        
+        <activity 
+            android:name="com.cockpunchers.commutator2.SosSettings"  
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.SosSettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            
+            </activity>
+              <activity  android:name="com.cockpunchers.commutator2.DP" 
+             android:label="@string/app_name"
+             android:configChanges="keyboardHidden|orientation|screenSize"
+        android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="com.cockpunchers.commutator2.DP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> </activity>
+            
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+        <activity android:name="com.facebook.LoginActivity"></activity>
+        
+        <service android:name="com.parse.PushService" />
+<receiver android:name="com.parse.ParseBroadcastReceiver" >
+  <intent-filter>
+    <action android:name="android.intent.action.BOOT_COMPLETED" />
+    
+  </intent-filter>
+</receiver>
+<receiver android:name="com.parse.GcmBroadcastReceiver"
+    android:permission="com.google.android.c2dm.permission.SEND">
+  <intent-filter>
+    <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+    <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+     <category android:name="com.cockpunchers.commutator2" />
+  </intent-filter>
+</receiver>
+<receiver   android:name=".AlarmManagerBroadcastReceiver"></receiver>
+    </application>
+
+</manifest>

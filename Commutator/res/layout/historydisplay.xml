@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/resLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:orientation="horizontal"
+        android:padding="3dip" >
+
+         <TextView
+        android:id="@+id/resname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:textSize="24sp" />
+        
+</LinearLayout>
+
+    <Button
+        android:id="@+id/join"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/searessou"
+        android:visibility="invisible"
+        android:text="Join" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/join"
+        android:layout_alignBottom="@+id/join"
+        android:layout_alignLeft="@+id/searesdes"
+        android:text="To" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/seapass"
+        android:layout_alignBottom="@+id/seapass"
+        android:layout_toLeftOf="@+id/seapass"
+        android:text="Additional Seats: " />
+
+    <TextView
+        android:id="@+id/searchrestime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/searessou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/resLayout1"
+        android:layout_marginLeft="18dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/motimg"
+            android:scaleType="fitXY"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_above="@+id/textView4"
+        android:layout_alignRight="@+id/textView1"
+        android:src="@drawable/maruti2"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/motimg1"
+            android:scaleType="fitXY"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_above="@+id/textView4"
+        android:layout_alignRight="@+id/textView1"
+        android:src="@drawable/auto2" 
+        android:visibility="gone"/>
+    
+    <ImageView
+        android:id="@+id/motimg2"
+            android:scaleType="fitXY"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_above="@+id/textView4"
+        android:layout_alignRight="@+id/textView1"
+        android:src="@drawable/taxi2" 
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/seapass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:padding="3dip"  />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/searchrestime"
+        android:text="Commute Mode" />
+
+    <TextView
+        android:id="@+id/searesdes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/searessou"
+        android:layout_below="@+id/join"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/searesdes"
+        android:layout_below="@+id/searesdes"
+        android:layout_marginTop="29dp"
+        android:text="Time : " />
+    
+    <ImageView
+            android:id="@+id/bar1"
+            android:layout_width="fill_parent"
+            android:layout_height="5dip"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"
+    		android:background="@drawable/bar" />
+      
+</RelativeLayout>

@@ -1,0 +1,1799 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-98135.66219706701" y="-59405.25514046517" width="196271.32439413402" height="118810.51028093032"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="32_2475237" type="button" x="2.1995777163143092e-12" y="763.6665061314113" r="0" s="185.8982045786456" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1056.9904276736763</w>
+        <h>632.0817980906045</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="2_2648233" type="button" x="1675.1054522593538" y="-2572.50198475816" r="-1.8701598933199704e-66" s="49.38354400826841" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="11_48702179" type="button" x="1818.2098916826128" y="4721.012766409983" r="3.861267920583479" s="15.21471450718168" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>687.0616738085449</w>
+        <h>659.8652999225757</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="11" type="text" x="-2012.8467020570108" y="3635.912338141587" r="2.345967986620964" s="4.315729976418201" class="body body-background">
+      <height>137.98828125</height>
+      <width>231.3283635735092</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Linux based OS]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Used widely in mobile devices ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Owned by Google]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Open source ]]></text>
+      </p>
+    </object>
+    <object id="28_4" type="image" x="-2682.7582375743236" y="3599.25150949336" r="-8.96850755676429" s="0.8727525805736218">
+      <source w="1024" h="768">784193737<mask x="215" y="0" w="592" h="768"/>
+      <url>784193737.png</url></source>
+      <resource>
+        <id>784193737</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/a/4c8c8ba5a41f4836d03efbf6e36b3d50a3618.png</url>
+      </resource>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/a/4c8c8ba5a41f4836d03efbf6e36b3d50a3618.png</sourceUrl>
+      <layout>
+        <layout-element role="image" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="0_4225793" type="button" x="-62915.22255824389" y="6004.608359167961" r="-4.861566009931268" s="31.875995432772267" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="9_4225793" type="button" x="70921.99654102586" y="24448.12448645413" r="11.56801261628903" s="31.875995432772264" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_4225793" type="button" x="39632.67895741013" y="47744.62624563819" r="0.2797039438947813" s="31.875995432772243" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="15_4225793" type="button" x="75327.62825639718" y="-7918.008079568411" r="-3.8178855191722576" s="31.875995432772257" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1096.4169381107492</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>white-space-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="5_4" type="text" x="62667.73520740867" y="17367.40541253682" r="11.568012616289035" s="71.56844665332312" class="head head-background">
+      <height>27.59765625</height>
+      <width>191.00529937358803</width>
+      <p>
+        <text><![CDATA[Requirements]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="9_4225793"/>
+      </layout>
+    </object>
+    <object id="29_48702179" type="button" x="2022.049542285058" y="-10946.674527225445" r="-0.02012159964627773" s="18.4379343066242" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.1943634596696</h>
+      </size>
+    </object>
+    <object id="4_48702179" type="image" x="1678.85" y="-10329.5" r="-0.020121599646277723" s="29.436713790012245">
+      <source w="400" h="225">1712878375<url>1712878375.png</url></source>
+      <sourceUrl>comm2.png</sourceUrl>
+    <resource><id>1712878375</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/9/6/d36f6e970e8008f570c2dea76b59eb111b803.png</url></resource></object>
+    <object id="29_4" type="text" x="2393.25" y="-13939.7" r="-0.645253110542219" s="36.48446244237252" class="head head-background">
+      <height>27.59765625</height>
+      <width>233.6024877079713</width>
+      <p align="center">
+        <text><![CDATA[SOCIO TRAVEL]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="2_2648233"/>
+      </layout>
+    </object>
+    <object id="6" type="text" x="-2206.9687947353254" y="3120.5572468980786" r="2.3459679866209644" s="4.949510247359785" class="head head-background">
+      <height>27.59765625</height>
+      <width>233.6024877079713</width>
+      <p align="center">
+        <text><![CDATA[WHAT IS ANDROID?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="12" type="text" x="-63073.879592155216" y="-943.092711936879" r="-4.861566009931272" s="60.39985361299114" class="head head-background">
+      <height>27.59765625</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Existing systems]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_4225793"/>
+      </layout>
+    </object>
+    <object id="14" type="text" x="-56065.19747685091" y="7115.778452105811" r="-3.044765098020437" s="20.736863420412316" class="head head-background">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[LIMITATIONS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="13"/>
+      </layout>
+    </object>
+    <object id="21" type="text" x="38388.5" y="42268.55" r="0.2797039438947815" s="73.64340835077205" class="head head-background">
+      <height>27.59765625</height>
+      <width>247.796143553921</width>
+      <p align="center">
+        <text><![CDATA[SCOPE]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="12_4225793"/>
+      </layout>
+    </object>
+    <object id="23" type="text" x="39200.423062590766" y="49210.681700110945" r="0.2797039438947808" s="54.28055138513398" class="body body-background">
+      <height>193.18359375</height>
+      <width>492.33984375</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[User Friendly.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Time tolerance. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[In built ride chat. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[SOS Feature. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Safety for women. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Login independent of social networking account.  ]]></text>
+      </p>
+    </object>
+    <object id="0_48702179" type="button" x="75837.6014569728" y="22156.380968759197" r="11.568012616289002" s="12.024396853643616" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>798.1</w>
+        <h>454.8756476683938</h>
+      </size>
+    </object>
+    <object id="1_48702179" type="button" x="74216.75" y="30026.55" r="11.568012616289009" s="10.209393554980437" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1008.125</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_48702179" type="text" x="76246.45607371297" y="20157.043405049233" r="11.568012616289009" s="17.937039772957778" class="head head-background">
+      <height>27.59765625</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Hardware Requirements]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_48702179"/>
+      </layout>
+    </object>
+    <object id="3_48702179" type="text" x="75598.61463647895" y="21795.999989149088" r="11.568012616289025" s="10.484712144528189" class="body">
+      <height>110.390625</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[512 Mb ram ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[10 Mb storage space ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Minimum: Android 3.0 Honeycomb supporting device ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0_48702179"/>
+      </layout>
+    </object>
+    <object id="12_48702179" type="text" x="74652.97682335088" y="27893.500242332637" r="11.568012616289025" s="19.236839398768833" class="head head-background">
+      <height>27.59765625</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Software Requirements]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="1_48702179"/>
+      </layout>
+    </object>
+    <object id="13_48702179" type="text" x="74235.9233810112" y="29934.75362324887" r="11.568012616289" s="12.368930372098214" class="body">
+      <height>137.98828125</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Platform:  Android]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Language used :  Java,XML]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Development tools :  JDK 1.4, Android-SDK, Eclipse]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Database used   :  SQLite]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="1_48702179"/>
+      </layout>
+    </object>
+    <object id="20_48702179" type="button" x="66031.20696151628" y="-31947.628241879796" r="-11.887196858314036" s="27.74800663247188" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1052.7272727272727</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="21_48702179" type="text" x="64750.59345105343" y="-38025.704583216866" r="-11.887196858314043" s="54.596722409817126" class="head head-background">
+      <height>27.59765625</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[REFERENCES]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="20_48702179"/>
+      </layout>
+    </object>
+    <object id="24_48702179" type="text" x="-69101.21612965906" y="5230.311829486001" r="-4.861566009931272" s="60.39985361299114" class="body body-background">
+      <height>55.1953125</height>
+      <width>202.67713546233347</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Meter share]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[PoolMyRide]]></text>
+      </p>
+    </object>
+    <object id="34_48702179" type="button" x="-6939.904862160345" y="43757.4288915878" r="0" s="29.72055815194183" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1052.727272727273</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="35_48702179" type="text" x="-7002.880762395086" y="37069.4497823059" r="0" s="60.881275594218366" class="head head-background">
+      <height>27.59765625</height>
+      <width>255.90164122796875</width>
+      <p align="center">
+        <text><![CDATA[PROPOSED SYSTEM]]></text>
+      </p>
+    </object>
+    <object id="38_48702179" type="text" x="-7046.872666007935" y="41765.6068285777" r="0" s="50.31510379687472" class="body body-background">
+      <height>110.390625</height>
+      <width>362.36875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[User friendly interface]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Time Tolerance ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[In-built ride chat]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Safety for women]]></text>
+      </p>
+    </object>
+    <object id="37_48702179" type="button" x="1825.0995880894593" y="5134.1769814605295" r="3.861267920583479" s="6.154896693589185" class="circle">
+      <type>circle</type>
+      <size>
+        <w>606.9</w>
+        <h>606.9</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="33_48702179" type="text" x="1808.5475479754011" y="5062.201096195271" r="3.861267920583479" s="13.480159546271755" class="head head-background">
+      <height>27.59765625</height>
+      <width>189.9906001403957</width>
+      <p align="center">
+        <text><![CDATA[INTRODUCTION]]></text>
+      </p>
+    </object>
+    <object id="27_48702179" type="button" x="810.495556140999" y="1165.990403457571" r="3.861267920583481" s="5.0506946091793745" class="circle">
+      <type>circle</type>
+      <size>
+        <w>599</w>
+        <h>599</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="39_48702179" type="image" x="836.2712927001654" y="786.0075159351063" r="3.861267920583479" s="2.2264183002476363">
+      <source w="941" h="359">921093871<url>921093871.png</url></source>
+      <resource>
+        <id>921093871</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/0/553e3b3526dd9b12639fe66d6b6700d8a7761.png</url>
+      </resource>
+      <sourceUrl>users.png</sourceUrl>
+    </object>
+    <object id="12_4" type="text" x="4001.5" y="8803.75" r="3.7543734341427246" s="3.262692578113239" class="body body-background">
+      <height>331.171875</height>
+      <width>304.6024244956314</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[The app is based on the concept of real-time ride-sharing.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It is an app that uses the most common relationship among humans: "strangers" and turns it into something else by joining their paths literally!]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Much more than just a ride sharing app.]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="2"/>
+      </layout>
+    </object>
+    <object id="27_4" type="text" x="787.9464479388739" y="1684.1796365123766" r="3.861267920583479" s="6.622558578011256" class="body body-background">
+      <height>110.390625</height>
+      <width>264.68270130377124</width>
+      <p align="center">
+        <text><![CDATA[Efficient utilization of this space to reduce carbon footprint is the need of the hour.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="31_48702179"/>
+      </layout>
+    </object>
+    <object id="10_48702179" type="shape" x="4276.238694641368" y="4502.772119401529" r="165.7602355226256" s="11.02614154528053" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="15_48702179" type="shape" x="3113.435480162112" y="7336.473497943" r="57.92804592921424" s="11.02614154528052" class="line3">
+      <geom type="line">
+        <sp>-63.8083424190336 0</sp>
+        <ep>63.80834241903359 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="22_48702179" type="shape" x="90.86651508838696" y="7107.434571672768" r="130.53373420061453" s="11.026141545280527" class="line3">
+      <geom type="line">
+        <sp>-62.87267252994727 0</sp>
+        <ep>62.87267252994727 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="25_48702179" type="shape" x="1394.0426696824115" y="3046.3683867759955" r="73.93093589085625" s="11.0261415452805" class="line3">
+      <geom type="line">
+        <sp>-36.756610689701915 0</sp>
+        <ep>36.756610689701915 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="26_48702179" type="button" x="3997.8453777112345" y="8798.628012248419" r="3.861267920583479" s="3.213618627626216" class="circle">
+      <type>circle</type>
+      <size>
+        <w>601</w>
+        <h>601</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="28_48702179" type="button" x="5966.046273377808" y="4056.083178750907" r="3.861267920583479" s="3.322315446176565" class="circle">
+      <type>circle</type>
+      <size>
+        <w>596.3</w>
+        <h>596.3</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="30_48702179" type="button" x="-998.096681514814" y="8407.8832400039" r="3.861267920583482" s="3.3497889084578296" class="circle">
+      <type>circle</type>
+      <size>
+        <w>573</w>
+        <h>573</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="32_48702179" type="shape" x="-663.8424920562752" y="4194.661373944661" r="-157.83801058875358" s="11.026141545280536" class="line3">
+      <geom type="line">
+        <sp>-62.492617903354216 0</sp>
+        <ep>62.492617903354216 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="36_48702179" type="button" x="-2226.382339679712" y="3557.5005275262956" r="3.861267920583479" s="2.4306395128444023" class="circle">
+      <type>circle</type>
+      <size>
+        <w>784.6</w>
+        <h>784.6</h>
+      </size>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="40_48702179" type="textwithplaceholder" x="5802.706334319291" y="4014.547818163821" r="3.8612679205834795" s="7.679224541285045" class="strong">
+      <placeholder text="" x="0" y="-13.75" align="left" width="0"/>
+      <meta>
+        <parentObjlib>centraltopic4</parentObjlib>
+      </meta>
+    </object>
+    <object id="56_48702179" type="shape" x="3436.1979638009384" y="3105.733086681226" r="-49.46626567970609" s="16.026591758787347" class="line3">
+      <geom type="line">
+        <sp>-48.30211516067301 0</sp>
+        <ep>48.30211516067301 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="57_48702179" type="button" x="4955.415228465235" y="1689.683101433846" r="3.861267920583479" s="3.2235803681803903" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.2736914129318</h>
+      </size>
+    </object>
+    <object id="58_48702179" type="text" x="6032.919385804702" y="3429.7335940141284" r="3.861267920583479" s="5.745547315650898" class="head head-background">
+      <height>27.59765625</height>
+      <width>116.88359375</width>
+      <p align="center">
+        <text><![CDATA[NEED]]></text>
+      </p>
+    </object>
+    <object id="59_48702179" type="text" x="5961.173368649827" y="4017.980761312806" r="3.861267920583481" s="3.443426907353176" class="body body-background">
+      <height>248.37890625</height>
+      <width>347.73046875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Increasing traffic & pollution in city]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Rising  travel expenses]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Non-compliance and non-availability of autorickshaws and taxis]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Increasing rise in usage of public transport leads to crowded buses ]]></text>
+      </p>
+    </object>
+    <object id="60_48702179" type="text" x="-955.9915087415859" y="7781.517032696797" r="3.8612679205834834" s="4.407312733666494" class="head head-background">
+      <height>27.59765625</height>
+      <width>-156.92578125</width>
+      <p align="center">
+        <text><![CDATA[APPLICATION]]></text>
+      </p>
+    </object>
+    <object id="61_48702179" type="text" x="-995.3302878279233" y="8300.024629950392" r="3.8612679205834795" s="3.642407217906192" class="body body-background">
+      <height>137.98828125</height>
+      <width>391.1614283789914</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dynamic ride-sharing application]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Smartphones]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Application to be made on Android platform]]></text>
+      </p>
+    </object>
+    <object id="62_48702179" type="text" x="5005.541337736807" y="881.6285509035579" r="3.861267920583479" s="6.622558578011256" class="head head-background">
+      <height>27.59765625</height>
+      <width>173.35546875</width>
+      <p align="center">
+        <text><![CDATA[OBJECTIVES]]></text>
+      </p>
+    </object>
+    <object id="64_48702179" type="text" x="4968.401740494389" y="1721.5546298385038" r="3.8612679205834795" s="4.896666294502806" class="body body-background">
+      <height>193.18359375</height>
+      <width>372.414915499651</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[To create a modern and mobile approach]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[To utilize empty seats efficiently]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Assuaging traffic congestion]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[To prove to be of significant social and environmental benefit.]]></text>
+      </p>
+    </object>
+    <object id="65_48702179" type="button" x="-49517.4" y="-43759.35" r="11.56801261628903" s="34.806113690214694" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1053.1177829099306</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="73_48702179" type="button" x="32524.44313250885" y="-47062.27583754733" r="11.568012616289034" s="30.44857209980724" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1111.699779249448</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="74_48702179" type="text" x="33477.96177030689" y="-54529.9950643366" r="11.568012616289032" s="48.38296145228893" class="head head-background">
+      <height>27.59765625</height>
+      <width>-189.3515625</width>
+      <p align="center">
+        <text><![CDATA[METHODOLOGY]]></text>
+      </p>
+    </object>
+    <object id="76_48702179" type="text" x="29656.649612518548" y="-39246.627165931255" r="11.568012616289034" s="43.98451041117172" class="body body-background">
+      <height>27.59765625</height>
+      <width>-162.71484375</width>
+      <p align="center">
+        <text><![CDATA[AGILE MODEL]]></text>
+      </p>
+    </object>
+    <object id="77_48702179" type="button" x="-7972.4252707023725" y="-47272.96611407631" r="-3.817885519172259" s="27.21640715520121" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1236.846095526914</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="7_48702179" type="image" x="1328.1377066721252" y="-46105.76111466774" r="-3.8178855191722607" s="317.36506941079506">
+      <source w="44" h="24">606423451<url>606423451.swf</url></source>
+      <sourceUrl>cloudwhite.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>606423451</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/b/4/8ffd11e354f1910c37bc37d36d58da1144c5a.swf</url></resource></object>
+    <object id="78_48702179" type="text" x="-8404.755395062775" y="-52822.396387199806" r="-3.817885519172259" s="44.55854190251628" class="head head-background">
+      <height>27.59765625</height>
+      <width>-196.93359375</width>
+      <p align="center">
+        <text><![CDATA[DESIGN DETAILS]]></text>
+      </p>
+    </object>
+    <object id="110_48702179" type="button" x="1209.4903593666954" y="-45684.11808996265" r="-3.817885519172258" s="8.00123917243263" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1167.0514165792235</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="111_48702179" type="text" x="-8246.53787570188" y="-51463.55937111671" r="-3.8178855191722607" s="26.20313741251879" class="head head-background">
+      <height>27.59765625</height>
+      <width>400.3875916473347</width>
+      <p align="center">
+        <text><![CDATA[SERVER SIDE TECHNOLOGY]]></text>
+      </p>
+    </object>
+    <object id="113_48702179" type="text" x="1809.147702270193" y="-45043.03759074466" r="-3.817885519172259" s="10.83772439291748" class="body">
+      <height>165.5859375</height>
+      <width>768.2688317657744</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Parse is a host service, providing backend services to end-user applications.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[User Profiles are saved ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Ride Details storage.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Geo location services. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Push Notifications.]]></text>
+      </p>
+    </object>
+    <object id="114_48702179" type="text" x="1770.8766227419874" y="-46963.00515547667" r="-3.817885519172259" s="34.21921812018957" class="strong">
+      <height>27.59765625</height>
+      <width>-79.58203125</width>
+      <p align="center">
+        <text><![CDATA[PARSE]]></text>
+      </p>
+    </object>
+    <object id="118_48702179" type="text" x="-47093.948064271615" y="-51851.79506452353" r="11.56801261628903" s="45.045443902673554" class="head head-background">
+      <height>27.59765625</height>
+      <width>-384.94921875</width>
+      <p align="center">
+        <text><![CDATA[APPLICATION MODULE DIAGRAM]]></text>
+      </p>
+    </object>
+    <object id="7_4" type="text" x="74851.16608687647" y="-15037.857919085483" r="-3.8178855191722607" s="62.72054005665811" class="head head-background">
+      <height>27.59765625</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[CONCLUSION]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-frame-layout-switcher</notModifiedByUser>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="15_4225793"/>
+      </layout>
+    </object>
+    <object id="24_4" type="text" x="75493.7757015936" y="-5446.697662939832" r="-3.817885519172268" s="40.32814210170359" class="body body-background">
+      <height>275.9765625</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Objective in creating this application is to help the user find a ride easily as well as cheaply]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[This application will help users combat the continuous high rise in traveling expenses by sharing the cost of travel with other users. ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Real-time ride-sharing applications like ours will in turn help in assuaging traffic, help save fuel, money and time and thus revolutionize the way we have been traveling in a population intense city like ours. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="15_4225793"/>
+      </layout>
+    </object>
+    <object id="1" type="button" x="74206.94671567758" y="30024.309963523578" r="11.568012616289014" s="10.83128554817721" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1172.248803827751</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2" type="button" x="-55938.66446942284" y="10366.913699228433" r="-3.04476509802046" s="5.821397570387319" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>854.2553711289561</w>
+        <h>963.0969710104844</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="3" type="button" x="-56069.6680967893" y="8207.895425465076" r="-3.044765098020461" s="1.3524781055554977" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>876.7698873653937</w>
+        <h>591.2323785788981</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="5" type="shape" x="-56521.45633642146" y="8450.523990918062" r="-60.706961542692014" s="2.9475532477252777" class="line3">
+      <geom type="line">
+        <sp>-69.74971786290745 0</sp>
+        <ep>69.74971786290745 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="7" type="shape" x="-56367.38134834718" y="8329.934688462738" r="47.52913302027329" s="2.9552236248337787" class="line3">
+      <geom type="line">
+        <sp>-26.83379432230922 0</sp>
+        <ep>26.833794322309217 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="8" type="shape" x="-56204.89086759329" y="8182.680716278885" r="-62.62106656916271" s="2.9630901137226027" class="line3">
+      <geom type="line">
+        <sp>-78.80739112147565 0</sp>
+        <ep>78.80739112147566 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="9" type="shape" x="-55988.67178645084" y="8162.236262734864" r="59.78919077825077" s="2.975617709318626" class="line3">
+      <geom type="line">
+        <sp>-72.68679357928515 0</sp>
+        <ep>72.68679357928514 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="10" type="shape" x="-55895.936891526704" y="8200.49749660842" r="-53.94549897696668" s="2.946883055728327" class="line3">
+      <geom type="line">
+        <sp>-21.25622699494284 0</sp>
+        <ep>21.256226994942836 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="16" type="shape" x="-55674.259535570774" y="8357.417824655" r="48.783721169421895" s="2.946726788673971" class="line3">
+      <geom type="line">
+        <sp>-91.03843061800546 0</sp>
+        <ep>91.03843061800546 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="17" type="shape" x="-57288.366484683276" y="9843.369151131024" r="-60.706961542692014" s="7.4074346757775755" class="line3">
+      <geom type="line">
+        <sp>182.31446173639227 0</sp>
+        <ep>-182.31446173639227 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="18" type="shape" x="-54751.54855204575" y="9435.27277236733" r="48.78372116942185" s="7.379674992848949" class="line3">
+      <geom type="line">
+        <sp>-152.1541056421697 0</sp>
+        <ep>152.15410564216967 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="19" type="shape" x="-57597.247840504766" y="11878.831492141873" r="63.41513836153944" s="7.407434675777579" class="line3">
+      <geom type="line">
+        <sp>-105.5927326172004 0</sp>
+        <ep>105.5927326172004 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="20" type="shape" x="-56257.210034328236" y="12715.466613268649" r="8.051870256380647" s="7.407434675777562" class="line3">
+      <geom type="line">
+        <sp>-135.35663782870924 0</sp>
+        <ep>135.35663782870924 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="22" type="shape" x="-54505.59783931332" y="12275.48489695397" r="-37.34170915190553" s="7.3964346416283835" class="line3">
+      <geom type="line">
+        <sp>-129.9915729513343 0</sp>
+        <ep>129.9915729513343 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="24" type="shape" x="-53821.96237656407" y="11127.15078035444" r="80.91293588256497" s="7.644729753381385" class="line3">
+      <geom type="line">
+        <sp>74.61782920289309 0</sp>
+        <ep>-74.61782920289309 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="25" type="shape" x="-57767.46774562125" y="10979.996887870766" r="-12.695282313992633" s="7.605428814780331" class="line3">
+      <geom type="line">
+        <sp>-23.67493812472952 0</sp>
+        <ep>23.67493812472952 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="26" type="shape" x="-57773.36764167347" y="11061.933619964366" r="-34.45545565427699" s="7.4219658884236805" class="line3">
+      <geom type="line">
+        <sp>28.9361945487348 0</sp>
+        <ep>-28.9361945487348 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="27" type="shape" x="-54090.02118814666" y="10498.782505309562" r="-69.18469851603105" s="7.403199678753658" class="line3">
+      <geom type="line">
+        <sp>30.6724511599249 0</sp>
+        <ep>-30.672451159924904 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="28" type="shape" x="-54041.750425415776" y="10639.01811389777" r="-28.896970108751006" s="7.398029501964661" class="line3">
+      <geom type="line">
+        <sp>19.634759758305844 0</sp>
+        <ep>-19.634759758305844 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="29" type="shape" x="-56015.47793817223" y="8614.983423841137" r="-3.0447650980204504" s="7.644729753381381" class="line1">
+      <geom type="line">
+        <sp>-364.9403843243297 0</sp>
+        <ep>364.9403843243297 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="32" type="button" x="-56602.10580614129" y="10006.764057423114" r="-8.09025429693738" s="1.0120804649061836" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="33" type="button" x="-55232.00754495824" y="10195.760539038383" r="8.051870256380651" s="1.4430291312958978" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="34" type="button" x="-56521.77961280127" y="11517.429491681263" r="-8.090254296937395" s="1.925370513042042" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="35" type="button" x="-54888.700000000004" y="11565.850000000006" r="-3.0447650980204624" s="1.417507021939016" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>iceberg4</parentObjlib>
+      </meta>
+    </object>
+    <object id="40" type="text" x="-56371.38395848327" y="7897.317836583878" r="-3.044765098020462" s="2.661044105463576" class="body body-background">
+      <height>27.59765625</height>
+      <width>-202.76953125</width>
+      <p>
+        <text><![CDATA[Poor user interface]]></text>
+      </p>
+    </object>
+    <object id="41" type="shape" x="-56142.25451495605" y="7959.872574936332" r="33.87026508114805" s="1.0996050022576764" class="line3">
+      <geom type="arrow">
+        <sp>-40.42035863114 0</sp>
+        <ep>40.42035863114 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="42" type="text" x="-56603.792986307584" y="9976.48110680711" r="-8.090254296937374" s="2.1648621712525467" class="body body-background">
+      <height>27.59765625</height>
+      <width>292.7070072656557</width>
+      <p>
+        <text><![CDATA[Frequent crashes and bugs]]></text>
+      </p>
+    </object>
+    <object id="43" type="text" x="-55244.99219233906" y="10154.554525104833" r="8.051870256380646" s="4.640574325489261" class="body body-background">
+      <height>27.59765625</height>
+      <width>177.18570038969284</width>
+      <p>
+        <text><![CDATA[Limited features]]></text>
+      </p>
+    </object>
+    <object id="44" type="text" x="-56501.22295707695" y="11531.118788911848" r="-8.090254296937395" s="3.5813918640831224" class="body body-background">
+      <height>27.59765625</height>
+      <width>-425.53125</width>
+      <p>
+        <text><![CDATA[Not enough security for female travelers]]></text>
+      </p>
+    </object>
+    <object id="45" type="text" x="-54888.0931022014" y="11565.812890229114" r="-3.04476509802046" s="3.5813918640831233" class="body body-background">
+      <height>27.59765625</height>
+      <width>-240.09375</width>
+      <p>
+        <text><![CDATA[No Proximity Location ]]></text>
+      </p>
+    </object>
+    <object id="46" type="text" x="65736.77490221556" y="-32766.228485564632" r="-11.887196858314038" s="34.69538063791992" class="body body-background">
+      <height>165.5859375</height>
+      <width>757.0266874460463</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://developer.android.com]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://stackoverflow.com]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://parse.com ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://wikipedia.com]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[https://www.Lynda.com]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[https://www.newBoston.com   ]]></text>
+      </p>
+    </object>
+    <object id="47" type="button" x="-68373.35" y="-19087.449999999997" r="0" s="31.31880415138608" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1110.047846889952</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="48" type="text" x="-68887.9179440047" y="-25331.735628189093" r="0" s="51.593840539404034" class="head head-background">
+      <height>27.59765625</height>
+      <width>-285.84375</width>
+      <p align="center">
+        <text><![CDATA[LITERATURE SURVEYED]]></text>
+      </p>
+    </object>
+    <object id="67" type="button" x="-45572.01071449171" y="30854.0871140104" r="0" s="33.36676423146077" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>796.1077844311377</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="50" type="shape" x="-43863.461115490965" y="30901.026990656588" r="-146.26795991870853" s="25.26227145674686" class="line1">
+      <geom type="arrow">
+        <sp>112.5301819969493 9.035915389642833</sp>
+        <ep>-112.5301819969493 9.035915389642827</ep>
+        <b>18.07183077928566</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="51" type="button" x="-45911.72390829336" y="30964.04648666" r="0" s="25.08390981145791" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>740.6187959490842</w>
+        <h>555.4640969618131</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="52" type="button" x="-46110.23711281831" y="26681.626460220163" r="0" s="6.3838796390332755" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="54" type="button" x="-52485.11533974072" y="33164.9635867734" r="0" s="5.100247022589999" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="56" type="button" x="-39594.9449033776" y="33070.60687280871" r="0" s="5.160622352333576" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="57" type="shape" x="-48321.14243621312" y="30871.2143906327" r="-33.73204008129149" s="25.262271456746852" class="line1">
+      <geom type="arrow">
+        <sp>112.53018199694934 -9.035915389642833</sp>
+        <ep>-112.53018199694934 -9.035915389642836</ep>
+        <b>-18.07183077928567</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="58" type="button" x="-43218.80598058804" y="35698.17394908727" r="0" s="5.100247022589999" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="59" type="shape" x="-46955.18825824969" y="31539.77926473371" r="112.62701575515142" s="25.26227145674684" class="line1">
+      <geom type="arrow">
+        <sp>-99.95062359095108 3.8274903627059302</sp>
+        <ep>99.95062359095108 3.8274903627059302</ep>
+        <b>-7.6549807254118605</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="60" type="button" x="-48580.872283802484" y="35698.91504489968" r="0" s="5.100247022589999" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="61" type="shape" x="-45212.49294939976" y="31554.72104778061" r="67.34342767602963" s="25.26227145674687" class="line1">
+      <geom type="arrow">
+        <sp>-99.02239126052426 -3.8274903627059302</sp>
+        <ep>99.02239126052426 -3.8274903627059302</ep>
+        <b>7.6549807254118605</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="62" type="shape" x="-46088.36491899867" y="29197.899265818687" r="0" s="3.3906657023924693" class="poly2">
+      <geom type="circle">
+        <r>49.52143972344503</r>
+      </geom>
+      <meta>
+        <parentObjlib>divergentt-3</parentObjlib>
+      </meta>
+    </object>
+    <object id="68" type="text" x="-46088.765146285914" y="26635.738635538943" r="0" s="44.124403961427" class="head head-background">
+      <height>27.59765625</height>
+      <width>-72.0234375</width>
+      <p align="center">
+        <text><![CDATA[RISKS]]></text>
+      </p>
+    </object>
+    <object id="69" type="text" x="-52485.69742885075" y="33139.641020398754" r="0" s="13.794099303302541" class="body body-background">
+      <height>27.59765625</height>
+      <width>-242.6953125</width>
+      <p>
+        <text><![CDATA[STRANGER DANGER]]></text>
+      </p>
+    </object>
+    <object id="70" type="text" x="-48577.91623354289" y="35730.17362185616" r="0" s="12.898460134851002" class="body body-background">
+      <height>27.59765625</height>
+      <width>294.3208446316902</width>
+      <p>
+        <text><![CDATA[RELIABILITY OF SERVICE]]></text>
+      </p>
+    </object>
+    <object id="71" type="text" x="-43218.01402834597" y="35655.506149212255" r="0" s="14.1883061483361" class="body body-background">
+      <height>27.59765625</height>
+      <width>-277.41796875</width>
+      <p>
+        <text><![CDATA[SCHEDULE FLEXIBILITY]]></text>
+      </p>
+    </object>
+    <object id="72" type="text" x="-39592.706198821776" y="33068.21860801158" r="0" s="14.1883061483361" class="body body-background">
+      <height>82.79296875</height>
+      <width>225.38342827083787</width>
+      <p align="center">
+        <text><![CDATA[MEASUREMENT OF SUCCESSFUL RIDE-SHARE TRIPS]]></text>
+      </p>
+    </object>
+    <object id="5_48702179" type="image" x="-79082.99403962947" y="-21736.740580106343" r="0" s="5.450460900746667">
+      <source w="227" h="382" bt="0.2" bl="0.55">882662717<url>882662717.swf</url></source>
+      <sourceUrl>smarphone_fix.swf</sourceUrl>
+    <resource><id>882662717</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/8/6/ea0fe931578184d761c8d567d1af57fa4480b.swf</url></resource></object>
+    <object id="6_48702179" type="text" x="-67316.68232754467" y="-20271.353097161795" r="0" s="74.63512252775092" class="body body-background">
+      <height>82.79296875</height>
+      <width>-274.79296875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Android OS ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dynamic Ridesharing]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Backend as a Service ]]></text>
+      </p>
+    </object>
+    <object id="8_48702179" type="image" x="-14743.150000000001" y="-44579.75" r="-3.81788551917226" s="267.33950744834607">
+      <source w="44" h="24">606422547<url>606422547.swf</url></source>
+      <sourceUrl>cloudblue.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>606422547</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/2/53f7925e021c012b13f58957e7af8bbb5ecee.swf</url></resource></object>
+    <object id="9_48702179" type="text" x="-15221.95879572472" y="-45606.06863292537" r="-3.817885519172259" s="35.814936719949515" class="strong">
+      <height>27.59765625</height>
+      <width>-105.375</width>
+      <p>
+        <text><![CDATA[Quickblox]]></text>
+      </p>
+    </object>
+    <object id="16_48702179" type="text" x="-15108.050000000001" y="-44398.24999999999" r="-3.817885519172259" s="20.096120229546763" class="strong">
+      <height>55.1953125</height>
+      <width>-270.76171875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Provide chat services ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[XMPP Services ]]></text>
+      </p>
+    </object>
+    <object id="17_48702179" type="image" x="32610.9" y="-46681.1" r="11.568012616289034" s="31.5900863083023">
+      <source w="560" h="417">1713392263<url>1713392263.jpg</url></source>
+      <sourceUrl>sdlc_agile_model.jpg</sourceUrl>
+    <resource><id>1713392263</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/f/4/0c627d87f1b0626f93b49198163a9f57fa41f.jpg</url></resource></object>
+    <object id="31_48702179" type="image" x="-49458.15" y="-43896.450000000004" r="11.568012616289025" s="34.3382178851837">
+      <source w="1063" h="376">1713435910<url>1713435910.png</url></source>
+      <sourceUrl>MODULE.png</sourceUrl>
+    <resource><id>1713435910</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/0/2/2bc59f776063bfb81aaabe07bd8f5ec5237f5.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="87.63164149846" fadescale="0.02510508718518825">
+      <object id="background921016181" type="image" x="2747.21077797158" y="4564.275451013502" r="0" s="336.04513801202694">
+        <source w="1280" h="853">923618637<url>923618637.jpg</url></source>
+        <resource>
+          <id>923618637</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/e/c6a354599dd592a7cf41d272136d072be9ce4.jpg</url>
+        </resource>
+        <sourceUrl>ppt3.jpg</sourceUrl>
+      </object>
+    </layer>
+    <layer depth="175.26328299691997" fadescale="0.12552543592594134">
+      <object id="background920991895" type="image" x="2747.21077797158" y="4564.275451013502" r="0" s="382.7172017797821">
+        <source w="1600" h="900">923619009<url>923619009.jpg</url></source>
+        <resource>
+          <id>923619009</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/c/a4e96044a93b47a40da2fb2cdb5fc05849993.jpg</url>
+        </resource>
+        <sourceUrl>ppt1.jpg</sourceUrl>
+      </object>
+    </layer>
+    <layer depth="262.89492449538005" fadescale="0.6276271796297067">
+      <object id="background920995371" type="image" x="2747.21077797158" y="4564.275451013502" r="0" s="794.5572690399077">
+        <source w="1000" h="667">923619973<url>923619973.jpg</url></source>
+        <resource>
+          <id>923619973</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/2/e/07a830eeada581f8aaa3775c5b279c04d711d.jpg</url>
+        </resource>
+        <sourceUrl>pp2.jpg</sourceUrl>
+      </object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="32_2475237"/>
+    </s>
+    <s>
+      <eagle o="2_2648233"/>
+    </s>
+    <s>
+      <eagle o="29_48702179"/>
+    </s>
+    <s>
+      <eagle o="11_48702179"/>
+    </s>
+    <s>
+      <eagle o="37_48702179"/>
+    </s>
+    <s>
+      <eagle o="27_48702179"/>
+    </s>
+    <s>
+      <eagle o="26_48702179"/>
+    </s>
+    <s>
+      <eagle o="28_48702179"/>
+    </s>
+    <s>
+      <eagle o="30_48702179"/>
+    </s>
+    <s>
+      <eagle o="57_48702179"/>
+    </s>
+    <s>
+      <eagle o="0_4225793"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="33"/>
+    </s>
+    <s>
+      <eagle o="34"/>
+    </s>
+    <s>
+      <eagle o="35"/>
+    </s>
+    <s>
+      <eagle o="12_4225793"/>
+    </s>
+    <s>
+      <eagle o="47"/>
+    </s>
+    <s>
+      <eagle o="73_48702179"/>
+    </s>
+    <s>
+      <eagle o="17_48702179"/>
+    </s>
+    <s>
+      <eagle o="77_48702179"/>
+    </s>
+    <s>
+      <eagle o="110_48702179"/>
+    </s>
+    <s>
+      <eagle o="16_48702179"/>
+    </s>
+    <s>
+      <eagle o="65_48702179"/>
+    </s>
+    <s>
+      <eagle o="9_4225793"/>
+    </s>
+    <s>
+      <eagle o="0_48702179"/>
+    </s>
+    <s>
+      <eagle o="1_48702179"/>
+    </s>
+    <s>
+      <eagle o="15_4225793"/>
+    </s>
+    <s>
+      <eagle o="20_48702179"/>
+    </s>
+  </path>
+  <style type="text/css">
+.line1
+{
+	color: #e0610c;
+	gradEndColor: #e0610c;
+	gradStartColor: #e0610c;
+}
+
+.line2
+{
+	color: #717171;
+	gradEndColor: #717171;
+	gradStartColor: #717171;
+}
+
+.line3
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.line4
+{
+	color: #d04141;
+	gradEndColor: #d04141;
+	gradStartColor: #d04141;
+}
+
+.line5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.poly1
+{
+	borderColor: #e0610c;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+.poly2
+{
+	borderColor: #e0610c;
+	gradEndColor: #e0610c;
+	gradStartColor: #e0610c;
+}
+
+.poly3
+{
+	borderColor: #03c2c9;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+.poly4
+{
+	borderColor: #03c2c9;
+	gradEndColor: #03c2c9;
+	gradStartColor: #03c2c9;
+}
+
+.poly5
+{
+	borderColor: #000;
+	borderThickness: 9;
+	gradEndColor: #f0f0f0;
+	gradStartColor: #f0f0f0;
+}
+
+Background
+{
+	gradEnd: #63a800;
+	gradStart: #63a800;
+}
+
+Grid
+{
+	color: #7bd100;
+}
+
+Logo
+{
+	src: url('logo.png');
+	visibility: visible;
+}
+
+ZArrow
+{
+	borderColor: #4c4c4c;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	borderColor: #008080;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #008080;
+	gradStartAlpha: 1;
+	gradStartColor: #008080;
+	lockTintAlpha: 0;
+	lockTintColor: #ffffe6;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+ZFrame.circle
+{
+	borderColor: #ffff6e;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #999;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #990;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #bff;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	color: #ff00e1;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	borderColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	gradEndAlpha: 1;
+	gradEndColor: #f8981d;
+	gradStartAlpha: 1;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+</style>
+  <hash>-7ce4d24f</hash>
+<sync><oid>xvlwqbtbtino</oid><title>socio-travel</title><hash>-7ce4d24f</hash></sync><config>f0fyIO4bmqUYrk4/dm519PEmpU4io8sD/y/FwaIV7Zu3Q0QR5b1HS4yyjgTmfq8cpEIza/ySibVrKT/mXd7JFTUwk6ZEBUTaY4tYxs+VjhUU3tQQfDp7b2WVhaHP82vMxvp/JdZbTYO6EDmRFmSUMgafoIfoO3RWtQ4hXx6N5X5IOCzgjSXcrwGiNTweqCS04VN0fnXAiYwECC22+IplqlSX8xXmWInidkVt4fMoMPj5wuhy/hA/9/DbcjAzpbZ6UnDdvuACEmCyzubngCmpdqB8zcSgE0tCovpyphESMxKtYe1axvR2mtmVdmvQrE8u7RRQw4n7//RTqgv6TRmVVg==</config></zuiprezi>

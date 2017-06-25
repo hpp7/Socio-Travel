@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">  
+    
+    
+    <RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+        
+
+        <TextView
+            android:id="@+id/welcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:textStyle="bold"
+            android:textSize="19sp"
+            android:text="Hey user!"/>
+        
+        <AutoCompleteTextView
+            android:id="@+id/source"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/marker"
+            android:drawablePadding="5dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="40dp"
+            android:ems="10"
+            android:hint="Enter Source"            
+            android:layout_centerHorizontal="true"
+            android:imeActionLabel="@string/Next"
+            android:inputType="textPostalAddress"
+            android:textColor="#000000" >
+            <requestFocus />
+            
+        </AutoCompleteTextView>
+            
+                      
+        <AutoCompleteTextView
+            android:id="@+id/destination"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/marker"
+            android:drawablePadding="5dp"
+            android:layout_alignLeft="@+id/source"
+            android:layout_below="@+id/source"
+            android:layout_marginTop="26dp"
+            android:ems="10"
+            android:hint="Enter destination"
+            android:imeActionLabel="@string/Next"
+            android:inputType="textPostalAddress"
+            android:textColor="#000000" />
+        
+        <TextView
+            android:id="@+id/vehtype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/destination"
+           android:drawableLeft="@drawable/taxicar"
+            android:drawablePadding="5dp"
+            android:gravity="bottom"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="Choose a mode of travel"/>
+        
+         <EditText
+            android:id="@+id/pass"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spinner1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:drawableLeft="@drawable/addpass"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:imeActionLabel="@string/Next"
+            android:hint="Additional Passenger Capacity"            
+        android:maxLength="1"            
+        android:digits="12345678"        
+            android:inputType="number">
+            
+                        
+        </EditText>
+
+
+        <TextView
+            android:id="@+id/choosetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pass"
+            android:layout_marginTop="15dp"
+            android:layout_centerHorizontal="true"
+            android:text="Choose time of travel" />
+        
+        <EditText
+            android:id="@+id/time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pass"
+            android:drawableLeft="@drawable/time"
+            android:drawablePadding="5dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Enter the time"
+            android:onClick="selectTime" 
+            android:imeActionLabel="@string/Next"
+            android:focusable="false">
+            
+                        
+        </EditText>
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/time"
+            android:layout_below="@+id/time"
+            android:layout_marginTop="25dp"
+            android:drawableLeft="@drawable/timet"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Enter time tolerance [0-60 mins]"
+            android:imeActionLabel="@string/Next"
+            android:inputType="number"
+            android:maxLength="2" />
+        
+        
+        <Button
+            android:id="@+id/rideBut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText1"
+            android:drawableLeft="@drawable/create"
+            android:drawablePadding="5dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:text="Create My Ride!" />
+
+        <RelativeLayout 
+        android:id="@+id/rl1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText1"
+            android:layout_marginTop="4dp"
+            android:layout_centerHorizontal="true"  
+            android:visibility="gone">
+        
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"  
+            android:text="Only allow female users" />
+        
+    </RelativeLayout>
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:spinnerMode="dialog"
+            android:paddingLeft="40dp"
+            android:layout_below="@+id/vehtype"
+            android:textAlignment="center"
+            android:entries="@array/Vehicle_Type"
+            android:imeActionLabel="@string/Next"
+            android:prompt="@string/veh" />
+
+    </RelativeLayout>
+    
+    
+
+</ScrollView>

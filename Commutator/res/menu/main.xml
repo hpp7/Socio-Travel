@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/sos"
+          android:icon="@drawable/sos1"
+          android:title="@string/sos"
+          android:showAsAction="always" />
+   <item android:id="@+id/logout"
+          android:icon="@drawable/ic_launcher"
+          android:title="@string/logout"></item>
+   
+   <item android:id="@+id/safety"
+          android:icon="@drawable/ic_launcher"
+          android:title="@string/safety"></item>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>

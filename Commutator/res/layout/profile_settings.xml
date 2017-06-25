@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/backgr" >
+
+
+<TextView
+    android:id="@+id/viewprofile"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="View Profile"
+    android:layout_gravity="center"
+    android:drawableLeft="@drawable/manager"
+    android:drawablePadding="5dp"
+    android:padding="5dp"
+    android:clickable="true"
+    android:singleLine="true"
+        
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/text_border"
+    android:textSize="8sp"
+    android:text="" />
+<TextView
+    android:id="@+id/changepass"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Change password"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    android:drawableLeft="@drawable/padlock"
+    android:drawablePadding="5dp"
+    android:clickable="true"
+    android:singleLine="true"
+        
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/text_border"
+    android:textSize="8sp"
+    android:text="" />
+<TextView
+    android:id="@+id/changedp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Change profile picture"
+    android:padding="5dp"
+    android:layout_gravity="center"
+    android:drawableLeft="@drawable/changedp"
+    android:drawablePadding="5dp"
+    android:clickable="true"
+    android:singleLine="true"
+        
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/text_border"
+    android:textSize="8sp"
+    android:text="" />
+
+</LinearLayout>
